@@ -171,4 +171,9 @@ This project highlights:
 ## Contributions
 Feel free to fork the repository and submit pull requests with improvements.
 
+## Contributions
+Explore the live Power BI dashboard for interactive visualizations: [Amazon Sales Data](https://app.powerbi.com/reportEmbed?reportId=fc68592f-19b0-407c-b730-215df7cd476e&autoAuth=true&ctid=b5dc206c-17fd-4b06-8bc8-24f0bb650229)
+
+
+
 ---
